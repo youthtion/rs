@@ -1,5 +1,5 @@
-var animSrc = new Array(	"background-image:url(Kagome.jpg);","background-image:url(Zen.jpg);","background-image:url(Napoleon.jpg);",
-						"background-image:url(Sudoku.jpg);","background-image:url(Teaching.jpg);","background-image:url(Bricks.jpg);");
+var animSrc = new Array(	"background-image:url(kagome.jpg);","background-image:url(zen.jpg);","background-image:url(napoleon.jpg);",
+						"background-image:url(sudoku.jpg);","background-image:url(teaching.jpg);","background-image:url(bricks.jpg);");
 var animLength = new Array(102,133,328,58,107,313);
 var animWidth = new Array(223,229,150,142,179,87);
 var animHeight = new Array(146,125,215,205,118,88);
