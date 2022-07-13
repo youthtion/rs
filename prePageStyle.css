@@ -1,0 +1,14 @@
+#loadingImg{
+	position:absolute;
+	top:42%;
+	height:16%;
+	z-index:1;
+}
+#loadingBg{
+	position:absolute;
+	top:35px;
+	left:0;
+	width:100%;
+	background-color:black;
+	z-index:1;
+}

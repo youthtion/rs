@@ -1,0 +1,61 @@
+body{
+	background-image:url("top.jpg");
+}
+#bgAtr{
+	position:absolute;
+	background-image:url("BG6.jpg");
+	background-repeat:repeat-x;
+	background-position:0px 0px;
+	top:35px;
+	left:0;
+	width:100%;
+}
+.contents{
+	position:absolute;
+	top:0;
+	left:0;
+	height:100%;
+	width:100%;
+}
+.borderBox{
+	position:absolute;
+	top:9%;
+	left:10%;
+	height:81%;
+	width:80%;
+	border-style:solid;
+	border-color:black;
+	opacity:0.4;
+	-moz-opacity:0.4;
+	-khtml-opacity:0.4;
+	filter:alpha(opacity=40);
+}
+.textBox{
+	position:absolute;
+	font-family:"Fredericka the Great";
+	font-size:1px;
+	color:black;
+}
+.pictureBox{
+	position:absolute;
+	height:auto;
+}
+.aniAtr{
+	position:absolute;
+	background-position:0px 0px;
+}
+.masks{
+	position:absolute;
+	background-image:url("mask.png");
+	background-repeat:repeat;
+	background-position:0px 0px;
+	background-size:30% auto;
+	top:7%;
+	left:8%;
+	height:85%;
+	width:85%;
+	opacity:0.5;
+	-moz-opacity:0.5;
+	-khtml-opacity:0.5;
+	filter:alpha(opacity=50);
+}
